@@ -6,7 +6,7 @@ Utilize deep learning models to recognize face and detect lip position to find o
 **Back-end Design**: PostgreSQL, Heroku, AWS
 
 Demo Link: https://drive.google.com/file/d/1h7ojgBN3M4DHqhehQ7ZoYJWrB5uM_zYt/view
-![image](https://github.com/VirtualLip/VirtualLip/blob/master/img/demo.PNG)
+![image](https://github.com/kkeevin123456/virtualLip/blob/master/img/demo.PNG)
 ## Completeness Feature
 1. Sign in/out (AWS Amplify)
 Provide an login user interface for user
